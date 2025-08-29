@@ -108,3 +108,11 @@ JSON output
     "user_id": "john_doe_17091999"
 }
 
+
+Preview
+
+<img width="668" height="510" alt="image" src="https://github.com/user-attachments/assets/3b5916fc-8f11-430e-8dbc-a12c4a4b0037" />
+
+
+
+
