@@ -3,7 +3,12 @@ This project contains a REST API built with Python and the Flask framework to so
 This repository contains the source code for a RESTful API, the primary objective was to create and deploy an API that can intelligently process an array of mixed data types—numbers, alphabets, and special characters—and return a structured JSON response. The API is designed to be robust and handle various data inputs while adhering to the specified logical and formatting requirements.
 
 Example A
+
+
  <img width="931" height="1000" alt="image" src="https://github.com/user-attachments/assets/bb4d3d52-0b2d-418f-b2ca-b29b67f0bbf1" />
+
+
+ 
  JSON Output
  {
     "alphabets": [
@@ -28,9 +33,21 @@ Example A
     "user_id": "john_doe_17091999"
 }
 
+
+
  Example B
+
+
+ 
  <img width="823" height="876" alt="image" src="https://github.com/user-attachments/assets/04b7a62d-8381-48ea-a8c8-57a7a0ca2bde" />
+
+
+
+ 
  <img width="653" height="447" alt="image" src="https://github.com/user-attachments/assets/80052a6a-a9ed-48f3-ab74-f3234095ecdd" />
+
+
+ 
  JSON Output
  {
     "alphabets": [
@@ -59,8 +76,18 @@ Example A
     "user_id": "john_doe_17091999"
 }
 
+
+
+
 Example C
+
+
+
 <img width="933" height="932" alt="image" src="https://github.com/user-attachments/assets/ca50a7e8-a947-4fcd-93da-de4cfa6cb3a9" />
+
+
+
+
 <img width="918" height="286" alt="image" src="https://github.com/user-attachments/assets/9a52589e-f8a6-44d3-9b72-eaa9cfb290bc" />
 
 JSON output
